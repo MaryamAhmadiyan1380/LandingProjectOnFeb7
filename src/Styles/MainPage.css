@@ -1,0 +1,4 @@
+.categoryname :focus{
+    background-color: purple;
+    color: white;
+}
